@@ -16,7 +16,7 @@ Para el ninja que se toma un descanso para comer, ¡está el Ninja Buffet! Todo 
 
 <h2>Tareas</h2>
 
-<h3>Crea una clase <code>Food</code></h3
+<h3>Crea una clase <code>Food</code></h3>
 
 ```cs
 class Food
