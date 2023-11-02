@@ -18,7 +18,7 @@ Para el ninja que se toma un descanso para comer, ¡está el Ninja Buffet! Todo 
 
 <h3>Crea una clase <code>Food</code></h3
 
-```csharp
+```cs
 class Food
 {
     public string Name;
